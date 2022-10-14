@@ -11,7 +11,7 @@ yarn dev
 ### build application
 yarn build
 
-### preview build apllication
+### preview build application
 yarn preview
 
 thanks
